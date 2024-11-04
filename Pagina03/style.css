@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #bbdec6;
+    background-color: #010300;
+    
+}
+
+.section01{
+    display: flex;
+    justify-items: auto;
+}
+.divpai01 { 
+    width: 100%;
+
+    background-position: bottom;
+    display: block;
+    justify-items: center;
+    align-items: safe;
+    padding: 50px;
+}
+
+div img {
+    width: 510px;
+    
+}
+
+.section02 {
+    display: flex;
+    justify-content: space-evenlyn;
+}
+
+.divsec2 {
+    width: 100%;
+   
+    background-position: bottom;
+    display: block;
+    justify-items: center;
+    align-items: safe;
+    padding: 50px;
+
+}
+
+#trocarCor {
+    width: 100%;
+}
+
